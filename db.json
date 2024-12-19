@@ -77,24 +77,28 @@
       "email": "chandana@gmail.com",
       "password": "adsfdgfbv",
       "id": 13
+    },
+    {
+      "username": "asdfgh",
+      "email": "chandana@gmail.com",
+      "password": "1234",
+      "id": 14
+    },
+    {
+      "username": "admin",
+      "email": "chandana@gmail.com",
+      "password": "admin123",
+      "id": 15
     }
   ],
   "data": [
     {
-      "condition": "dfghj",
+      "condition": "ghjklwerftgyhjs",
       "doctor": "wert",
       "description": "dfgh",
       "date": "2024-12-02",
-      "id": 5
-    },
-    {
-      "condition": "dfg",
-      "doctor": "dgfvfgv",
-      "description": "fgvesg",
-      "date": "2024-12-05",
-      "file": {},
-      "id": 6,
-      "recycled": false
+      "id": 5,
+      "recycled": true
     },
     {
       "condition": "sfgvs",
@@ -102,15 +106,24 @@
       "description": "sdgv",
       "date": "2024-12-02",
       "file": {},
-      "id": 7
+      "id": 7,
+      "recycled": true
     },
     {
-      "condition": "asdfghn",
+      "condition": "asdfg",
       "doctor": "asdfg",
-      "description": "sdfg",
-      "date": "2024-12-03",
+      "description": "sdfgh",
+      "date": "2024-12-05",
       "file": {},
-      "id": 8
+      "id": 10,
+      "recycled": true
+    },
+    {
+      "condition": "infection",
+      "doctor": "Dr.Athi",
+      "description": "Infection caused by bacteria ecoli",
+      "date": "2024-12-02",
+      "id": 11
     }
   ]
 }
